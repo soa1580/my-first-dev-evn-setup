@@ -1,6 +1,6 @@
 # my-first-dev-evn-setup
 
-In this project I will be step by step on how I created my Git, AWS account and also installed my Dev environment tools
+In this project I will be showing step by step on how I created my Git, AWS account and also installed my Dev environment tools
 
 ## Git Account 
 
@@ -29,4 +29,4 @@ In this project I will be step by step on how I created my Git, AWS account and 
 ![AWS](./img/6.AWS-Acct.png)
 
 
-
+##
