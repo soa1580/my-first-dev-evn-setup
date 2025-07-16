@@ -81,3 +81,21 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 ![index](./img/4.shwn-indx.png)
 
 
+5. ### showing main code
+
+![Mcode](./img/1.main-code.png)
+
+
+6. ### showing updnav code
+
+![Updnav](./img/2.updnav-code.png)
+
+
+7. ### showing Add-contact-info code
+
+![addcont](./img/3.addcont-info-code.png)
+
+
+8. ### showing git add, commit m and push code
+
+![]()
