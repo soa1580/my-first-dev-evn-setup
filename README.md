@@ -28,5 +28,3 @@ In this project I will be showing step by step on how I created my Git, AWS acco
 
 ![AWS](./img/6.AWS-Acct.png)
 
-
-##
