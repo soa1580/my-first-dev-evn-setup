@@ -18,4 +18,3 @@ Jerry name his just created branch update navigation
 
 Switching to the update navigation branch that was just created y Jerry to start working on it
 
-![Jbranch](./img/)
