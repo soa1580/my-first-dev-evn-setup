@@ -79,3 +79,12 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 4. ### showing index code in terminal
 
 ![index](./img/4.shwn-indx.png)
+
+
+8. ### showing the update navigation and add to contact info code in the terminal
+
+![updnavcode](./img/8.shown-updnav.code.png)
+
+9. ### showing the git command like add, commit, pull etc, code in the terminal
+
+![Gitcode](./img/9.shown-commit.andco.png)
