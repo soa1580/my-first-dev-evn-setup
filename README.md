@@ -37,19 +37,19 @@ In this project I will be step by step on how I created my Git, AWS account and 
 
 Tom name his branch update-navigation
 
-![Tbranch]()
+![Tbranch](./img/1.Branches-creatn.png)
 
 2. ### Branch Naming
 
 Tom name his just created branch update navigation
 
-![updnav]()
+![updnav](./img/2.nam-creatn.updatenav.png)
 
 3. ### Branch Switch
 
 Switching to the update navigation branch that was just created by Tom to start working on it
 
-![Tbranch]()
+![Tbranch](./img/3.switched.to-navupd.png)
 
 
 
@@ -58,20 +58,26 @@ Switching to the update navigation branch that was just created by Tom to start 
 
 Tom name his branch update-navigation
 
-![JerryB]()
+![JerryB](./img/1.Branches-creatn.png)
 
 
 2. ### Branch Naming
 
 Jerry name his just created branch update navigation
 
-![Jnaming]()
+![Jnaming](./img/3.switched-addcontact.png)
 
 
 3. ### Branch Switch
 
 Switching to the add-contact-info branch that was just created by Jerry to start working on it.
 
-![Jbranch]()
+![Jbranch](./img/3.switched-addcontact.png)
+
+
+
+4. ### showing index code in terminal
+
+![index](./img/4.shwn-indx.png)
 
 
