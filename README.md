@@ -1,6 +1,6 @@
 # my-first-dev-evn-setup
 
-In this project I will be step by step on how I created my Git, AWS account and also installed my Dev environment tools
+In this project I will be showing step by step on how I created my Git, AWS account and also installed my Dev environment tools
 
 ## Git Account 
 
@@ -28,63 +28,3 @@ In this project I will be step by step on how I created my Git, AWS account and 
 
 ![AWS](./img/6.AWS-Acct.png)
 
-
-# Created Branches on Main
-
-## In this project I will showing how Tom and Jerry created branches and named them update-navigation and add-contact-info
-
-1. ### Tom Branch
-
-Tom name his branch update-navigation
-
-![Tbranch](./img/1.Branches-creatn.png)
-
-2. ### Branch Naming
-
-Tom name his just created branch update navigation
-
-![updnav](./img/2.nam-creatn.updatenav.png)
-
-3. ### Branch Switch
-
-Switching to the update navigation branch that was just created by Tom to start working on it
-
-![Tbranch](./img/3.switched.to-navupd.png)
-
-
-
-
-1. ### Jerry Branch
-
-Tom name his branch update-navigation
-
-![JerryB](./img/1.Branches-creatn.png)
-
-
-2. ### Branch Naming
-
-Jerry name his just created branch update navigation
-
-![Jnaming](./img/3.switched-addcontact.png)
-
-
-3. ### Branch Switch
-
-Switching to the add-contact-info branch that was just created by Jerry to start working on it.
-
-![Jbranch](./img/3.switched-addcontact.png)
-
-
-
-4. ### showing index code in terminal
-
-![index](./img/4.shwn-indx.png)
-
-
-8. ### showing the update navigation and add to contact info code in the terminal
-
-![updnavcode](./img/8.shown-updnav.code.png)
-
-9. ### showing the git command like add, commit, pull etc, code in the terminal
-
-![Gitcode](./img/9.shown-commit.andco.png)
