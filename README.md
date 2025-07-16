@@ -29,4 +29,49 @@ In this project I will be step by step on how I created my Git, AWS account and 
 ![AWS](./img/6.AWS-Acct.png)
 
 
+# Created Branches on Main
+
+## In this project I will showing how Tom and Jerry created branches and named them update-navigation and add-contact-info
+
+1. ### Tom Branch
+
+Tom name his branch update-navigation
+
+![Tbranch]()
+
+2. ### Branch Naming
+
+Tom name his just created branch update navigation
+
+![updnav]()
+
+3. ### Branch Switch
+
+Switching to the update navigation branch that was just created by Tom to start working on it
+
+![Tbranch]()
+
+
+
+
+1. ### Jerry Branch
+
+Tom name his branch update-navigation
+
+![JerryB]()
+
+
+2. ### Branch Naming
+
+Jerry name his just created branch update navigation
+
+![Jnaming]()
+
+
+3. ### Branch Switch
+
+Switching to the add-contact-info branch that was just created by Jerry to start working on it.
+
+![Jbranch]()
+
 
