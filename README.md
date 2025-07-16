@@ -79,5 +79,3 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 4. ### showing index code in terminal
 
 ![index](./img/4.shwn-indx.png)
-
-
