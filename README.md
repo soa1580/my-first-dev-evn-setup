@@ -100,5 +100,6 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 8. ### showing git add, commit m and push code
 
 ![code](./img/7.shown-commit-co.png)
-=======
->>>>>>> 379b20b4ccd1851a6734de4d8bb08206efea9a14
+
+
+
