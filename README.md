@@ -137,3 +137,8 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 6. ### Showing all the git command used in the terminal
 
 ![TerminalC](./img/7.Shown-terminal.png)
+
+
+7. ### Showing conflict resolving code in the terminal
+
+![Conflict](./img/8.Resolvn-conflict.png)
