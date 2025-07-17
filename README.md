@@ -103,3 +103,17 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 
 
 
+# The below will showing Pull Request Creation for the Tom and Jerry branches
+
+1. ### Pull request Created for both Tom and Jerry
+
+![PR](./img/1.create-PR.png)
+
+
+2. ### Given title and description for add contact info and update navigation
+
+![TandD](./img/2.Title-descrptn.addcont.png)
+
+![TandD](./img/2.Title-descrptn.updnav.png)
+
+3. ### Compare the pull requst created before the merge
