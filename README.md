@@ -1,6 +1,6 @@
 # my-first-dev-evn-setup
 
-In this project I will be step by step on how I created my Git, AWS account and also installed my Dev environment tools
+In this project I will be showing step by step on how I created my Git, AWS account and also installed my Dev environment tools
 
 ## Git Account 
 
@@ -28,6 +28,7 @@ In this project I will be step by step on how I created my Git, AWS account and 
 
 ![AWS](./img/6.AWS-Acct.png)
 
+<<<<<<< HEAD
 
 # Created Branches on Main
 
@@ -99,3 +100,5 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 8. ### showing git add, commit m and push code
 
 ![code](./img/7.shown-commit-co.png)
+=======
+>>>>>>> 379b20b4ccd1851a6734de4d8bb08206efea9a14
