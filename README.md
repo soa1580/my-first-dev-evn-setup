@@ -117,3 +117,23 @@ Switching to the add-contact-info branch that was just created by Jerry to start
 ![TandD](./img/2.Title-descrptn.updnav.png)
 
 3. ### Compare the pull requst created before the merge
+
+![comp](./img/3.comp-mainwith-updnav.png)
+
+4. ### Merging of both Tom and Jerry branches together with pull request conflict resolve merged proof
+
+![Merging](./img/4.Addinfo-merge.png)
+
+![Merging](./img/4.updnav-merged.png)
+
+![PRMerged](./img/5.merg-eupdnav.png)
+
+
+5. ### Merged commit message confirmation
+
+![Commitmsg](./img/6.Merge-commitm.confirmtn.png)
+
+
+6. ### Showing all the git command used in the terminal
+
+![TerminalC](./img/7.Shown-terminal.png)
